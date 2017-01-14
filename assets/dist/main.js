@@ -1,1 +1,1 @@
-GitHubCalendar(".calendar", "pjpaulpj", {global_stats: false});
+GitHubCalendar(".calendar", "pjpaulpj", (options:summary_text:"",global_stats: false);
