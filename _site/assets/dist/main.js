@@ -1,1 +1,1 @@
-GitHubCalendar(".calendar", "TMorville", {global_stats: false, summary_text: "<TMorville>"})
+GitHubCalendar(".calendar", "pjpaulpj", {global_stats: false, summary_text: "<pjpaulpj>"})
