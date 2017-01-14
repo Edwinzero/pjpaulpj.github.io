@@ -1,0 +1,11 @@
+---
+layout: archive
+sitemap: dev_archive
+permalink: /dev_archive/
+author_profile: true
+---
+{% include base_path %}
+
+{% for post in site.tags.dev %}
+  {% include archive-single.html %}
+{% endfor %}

@@ -1,0 +1,11 @@
+---
+layout: archive
+sitemap: lit_archive
+permalink: /lit_archive/
+author_profile: true
+---
+{% include base_path %}
+
+{% for post in site.tags.lit %}
+  {% include archive-single.html %}
+{% endfor %}

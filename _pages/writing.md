@@ -6,6 +6,9 @@ sitemap: writing
 permalink: /writing/
 ---
 
+### Under Development
+This page is under active development.
+
 ### Peer reviewed
  > <span style="font-size:0.8em;">  [Tuning the Brake While Raising the Stake: Network Dynamics during Sequential Decision-Making](http://www.jneurosci.org/content/36/19/5417.short) 
 : <span style="font-size:0.8em;">  David Meder, Brian Numelin Haagensen, Oliver Hulme, Tobias Morville, Sofie Gelskov, Damian Marc Herz, Beata Diomsina, Mark Schram Christensen, Kristoffer Hougaard Madsen and Hartwig Roman Siebner </span>

@@ -1,0 +1,13 @@
+---
+layout: archive
+sitemap: econ_archive
+permalink: /econ_archive/
+author_profile: true
+---
+{% include base_path %}
+
+{% for post in site.tags.econ %}
+  {% capture date %}{{ post.date | date: "%-d %B %Y"}}{% endcapture %}
+   <h6 id="{{ date | slugify }}" class="archive__subtitle">{{ year }}</h6>
+  {% include archive-single.html %}
+{% endfor %}

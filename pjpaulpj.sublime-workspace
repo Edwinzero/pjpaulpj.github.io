@@ -1,0 +1,1628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pjpa",
+				"pjpaulpj"
+			],
+			[
+				"village",
+				"villagename12"
+			],
+			[
+				"manda",
+				"mandalcode_census"
+			],
+			[
+				"dis",
+				"distcode_census"
+			],
+			[
+				"hab",
+				"habitation_name_serp"
+			],
+			[
+				"villa",
+				"villagecode_census"
+			],
+			[
+				"fvc",
+				"fvc_valuechain"
+			],
+			[
+				"mand",
+				"mandalname"
+			],
+			[
+				"mandal",
+				"mandalname"
+			],
+			[
+				"villagename",
+				"villagename12"
+			],
+			[
+				"dist",
+				"distname"
+			],
+			[
+				"vill",
+				"village_letter3"
+			],
+			[
+				"village_l",
+				"village_letter1"
+			],
+			[
+				"village_le",
+				"village_letter3"
+			],
+			[
+				"villagele",
+				"village_letter2"
+			],
+			[
+				"NO",
+				"No_HH_Village"
+			],
+			[
+				"value",
+				"valuechain"
+			],
+			[
+				"strata",
+				"strata_treatment_villages"
+			],
+			[
+				"PPS",
+				"PPS_diff"
+			],
+			[
+				"SRS",
+				"SRS_treatment_village"
+			],
+			[
+				"trat",
+				"treatment_village"
+			],
+			[
+				"No",
+				"No_HH_Village"
+			],
+			[
+				"No_",
+				"No_HH_Village"
+			],
+			[
+				"SER",
+				"SERP_Census_Match"
+			],
+			[
+				"trea",
+				"treatment_village"
+			],
+			[
+				"tre",
+				"treatment_village"
+			],
+			[
+				"no_HH",
+				"No_HH_Village"
+			],
+			[
+				"mn",
+				"mandalname"
+			],
+			[
+				"treat",
+				"treatment"
+			],
+			[
+				"tr",
+				"treatment_status_village"
+			],
+			[
+				"treatment",
+				"treatment_status"
+			],
+			[
+				"ban",
+				"bank_branch_village"
+			],
+			[
+				"bank",
+				"bank_opened"
+			],
+			[
+				"ana",
+				"anantapur"
+			],
+			[
+				"ba",
+				"bank_opened"
+			],
+			[
+				"for",
+				"force"
+			],
+			[
+				"acc",
+				"account"
+			],
+			[
+				"pps",
+				"pps_valuechain"
+			],
+			[
+				"impl",
+				"implmt_started"
+			],
+			[
+				"path",
+				"path_in_directory"
+			],
+			[
+				"Match",
+				"Match_Village"
+			],
+			[
+				"Ma",
+				"Match_District"
+			],
+			[
+				"Ref",
+				"Reference_Village"
+			],
+			[
+				"Re",
+				"Reference_District"
+			],
+			[
+				"Control",
+				"Control_Matches_New"
+			],
+			[
+				"C",
+				"Control_Matches_New"
+			],
+			[
+				"ra",
+				"raw_data"
+			],
+			[
+				"Refe",
+				"Reference_Village"
+			],
+			[
+				"Data",
+				"Datasets"
+			],
+			[
+				"fvc_",
+				"fvc_mandal_status"
+			],
+			[
+				"cens",
+				"census_dupe"
+			],
+			[
+				"tot",
+				"total_Pop"
+			],
+			[
+				"small",
+				"small_village"
+			],
+			[
+				"ref",
+				"ref_mandal"
+			],
+			[
+				"mat",
+				"match_village"
+			],
+			[
+				"matc",
+				"match_1"
+			],
+			[
+				"str",
+				"strata"
+			],
+			[
+				"Hab",
+				"Hab_Village"
+			],
+			[
+				"re",
+				"rename"
+			],
+			[
+				"stra",
+				"strata_levels"
+			],
+			[
+				"treatmen",
+				"treatment_village"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"dumm",
+				"dummy_strata"
+			],
+			[
+				"random",
+				"random_dummy"
+			],
+			[
+				"No_HH",
+				"No_HH_Strata"
+			],
+			[
+				"strata_tre",
+				"strata_treatment_HH"
+			],
+			[
+				"total",
+				"total_HH"
+			],
+			[
+				"tra",
+				"treatment_village1"
+			],
+			[
+				"put",
+				"putexcel"
+			],
+			[
+				"s",
+				"strata2"
+			],
+			[
+				"strat",
+				"strata"
+			],
+			[
+				"No_HH_",
+				"No_HH_Strata2"
+			],
+			[
+				"repl",
+				"replace"
+			],
+			[
+				"enumer",
+				"enumerator_code"
+			],
+			[
+				"enum",
+				"enumerator_code"
+			],
+			[
+				"enu",
+				"enumerator_code"
+			],
+			[
+				"reg",
+				"regressors"
+			],
+			[
+				"survey",
+				"survey_length"
+			],
+			[
+				"blah",
+				"blahbetty"
+			],
+			[
+				"count",
+				"count_discrepancy"
+			],
+			[
+				"coun",
+				"count_discrepancy"
+			],
+			[
+				"hhid_",
+				"hhid_dupe_string"
+			],
+			[
+				"hh",
+				"hhid_dupe_string"
+			],
+			[
+				"hhid",
+				"hhid_dupe_count"
+			],
+			[
+				"hhi",
+				"hhid"
+			],
+			[
+				"compar",
+				"compare_variables"
+			],
+			[
+				"end",
+				"endline_score0"
+			],
+			[
+				"sd",
+				"sd_pvalue"
+			],
+			[
+				"sd_",
+				"sd_treatment"
+			],
+			[
+				"mean",
+				"mean_pvalue"
+			],
+			[
+				"en",
+				"endline_score0"
+			],
+			[
+				"madnal",
+				"mandalname"
+			],
+			[
+				"MDE",
+				"MDE2"
+			],
+			[
+				"stud",
+				"student_rand"
+			],
+			[
+				"schoo",
+				"schoolCode"
+			],
+			[
+				"school",
+				"schoolCode"
+			],
+			[
+				"ln_",
+				"ln_trees"
+			],
+			[
+				"ln_t",
+				"ln_totalRev"
+			],
+			[
+				"work",
+				"work_dir"
+			],
+			[
+				"state",
+				"statecode_census"
+			],
+			[
+				"merge",
+				"merge_match_mandal_codes"
+			],
+			[
+				"shee",
+				"sheetreplace"
+			],
+			[
+				"a",
+				"agriculture"
+			],
+			[
+				"p",
+				"pilot_list_merge2"
+			],
+			[
+				"FVC",
+				"FVCpilotmandals_censuscode"
+			],
+			[
+				"path_",
+				"path_in_directory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "_data/navigation.yml",
+			"settings":
+			{
+				"buffer_size": 379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/econ_archive.html",
+			"settings":
+			{
+				"buffer_size": 346,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/dev_archive.html",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_pages/lit_archive.html",
+			"settings":
+			{
+				"buffer_size": 196,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "---\nlayout: archive\npermalink: /posts/\ntitle: \"Posts by Year\"\nauthor_profile: true\n---\n\n{% capture written_year %}'None'{% endcapture %}\n{% for post in site.posts %}\n  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}\n  {% if year != written_year %}\n    <h2 id=\"{{ year | slugify }}\" class=\"archive__subtitle\">{{ year }}</h2>\n    {% capture written_year %}{{ year }}{% endcapture %}\n  {% endif %}\n  {% include archive-single.html %}\n{% endfor %}",
+			"file": "_posts/post.html",
+			"file_size": 458,
+			"file_write_time": 131288556320000000,
+			"settings":
+			{
+				"buffer_size": 458,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "_posts/2017-1-14-test_post.md",
+			"settings":
+			{
+				"buffer_size": 821,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Markdown to PDF.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Md-Tex.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Pandoc.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Markdown to PDF.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Markdown Preview/Markdown.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Markdown to PDF.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Pandoc.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Markdown to PDF.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "git",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"gl",
+				"Glue - Launch"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"type",
+				"Typewriter: Typing Mode (Toggle)"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"footno",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"markdown foo",
+				"MarkdownEditing: New Footnote"
+			],
+			[
+				"markdown ",
+				"MarkdownEditing: Switch List Bullet Type"
+			],
+			[
+				"Snippet: cm",
+				"Snippet: md_comments"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"buil",
+				"Set Syntax: Sublime Text Build System"
+			],
+			[
+				"prv",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"pand",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"buile",
+				"PackageDev: New Build System"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"colo",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"pers",
+				"PersistentRegexHighlight: Highlight All Files"
+			],
+			[
+				"pac",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"glue",
+				"Glue - Launch"
+			],
+			[
+				"SEND",
+				"SendREPL: Choose REPL Program"
+			],
+			[
+				"dir",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"ma",
+				"Markmon launch"
+			],
+			[
+				"",
+				"Build With: Pandoc"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pando",
+				"Pandoc: Convert a Pandoc file to PDF"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"pwd",
+			"pandoc-path = '/usr/local/bin/pandoc'",
+			"HOME = '/usr/local/bin/pandoc'",
+			"LOCAL = '/usr/bin:/bin:/usr/sbin:/sbin:/usr/texbin:/usr/local/bin'",
+			"import os",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io"
+	],
+	"file_history":
+	[
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_pages/posts_archive.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_pages/writing.md",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_data/navigation.yml",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_config.yml",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_pages/archive.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/README.md",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/index.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_pages/projects.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_site/index.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_posts/2017-1-13-test-post.md",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_includes/head/custom.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_layouts/single.html",
+		"/Users/pjpaul/Documents/Blogs/pjpaulpj.github.io/_includes/scripts.html",
+		"/Users/pjpaul/Downloads/Way of Life (12-22-16, 14-25).wol",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Control_Village_Selection_Files/do_files/village_control_sample_generation.do",
+		"/Users/pjpaul/Documents/Blogs/IDi/Questionnaire_WB.md",
+		"/Users/pjpaul/Documents/Blogs/IDi/Income_vs_Consumption.md",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/Pandoc/Pandoc.sublime-settings",
+		"/Users/pjpaul/Documents/Blogs/IDi/Income_vs_Consumption.md.pdf",
+		"/Users/pjpaul/Documents/Blogs/IDi/Income_vs_Consumption.html",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/Pandoc/Pandoc.py",
+		"/Users/pjpaul/Documents/Blogs/IDi/Snippets_in_stata.md.pdf",
+		"/Users/pjpaul/Documents/Blogs/IDi/Snippets_in_stata.md",
+		"/Users/pjpaul/Documents/Blogs/IDi/random.md.pdf",
+		"/Users/pjpaul/Documents/Blogs/IDi/random.md",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown (Standard).sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/Markdown.tmLanguage",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/PersistentRegexHighlight/PersistentRegexHighlight.sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Markdown.sublime-syntax",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/Color Scheme - Default/Monokai.tmTheme",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Monokai.tmTheme",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/md_comments.sublime-snippet",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/snippets_stata.md",
+		"/Users/pjpaul/Documents/Blogs/IDi/test.md",
+		"/Users/pjpaul/Downloads/merge treatment village list with GP list.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/village_control_sample_generation.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/#SRS_PPS_FInal_treatment_Sampling",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/#Rough_Random_Sampling",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/village_treatment_sample_generation_Dec_Final.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/village_sample_generation_Nov_Final_DO_Nov22.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/Village_Descrepancy_Reconcile_Nov11.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do files/SERP_village_names_vs_Census_village_names.do",
+		"/Users/pjpaul/Documents/Programming/Python/MOOCs/Datacience with Python-Michigan/course1_downloads/Fooling_around.py",
+		"/Users/pjpaul/Documents/Datasets/WB_India_Agric_Data/rawdata/Data_wrangle.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/village_list_template_Oct.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/village_sample_generation_4.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/village_sample_generation3.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/village_sample_generation2.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Homework/PJ_Paul/Full_HW.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/PJ Paul_Admin Folder/PJP_Work/Do file review/village_list_template.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/FVC_Mandal_List_Cleaning.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/SERP_village_names_vs_Census_village_names.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/Do file review/village_sample_generation.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Homework/PJ_Paul/Results of tests for equality of means and variance.xlsx",
+		"/Users/pjpaul/Dropbox (IDinsight)/PJ Paul_Admin Folder/PJP_Work/Do file review/Sampling/Mandal_list_value_chain_crop_cleaning.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/finalvaluechainselection_scaleup_cleanv3.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Paul/village_list_template.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Sessions/Treatment Assignment/Treatment Assignment Session.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Sessions/Power Calculations/Power Calculations Session.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Power Calcs- BMI/Jun14 HD power calcs_from_NJ.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Power Calcs- BMI/BMI_Power_Calc_05Oct_PJP.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/Power Calcs- BMI/Test_File",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/TreatmentVillageSelectionControlMatchingv4.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/Technical Bootcamp_Delhi 2016/Sessions/Data Visualization/Data Visualization Session.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/CensusPrimartyAbstractDataCleaning.do",
+		"/Users/pjpaul/Dropbox (IDinsight)/00 SERP-CEC/05 Impact Evaluation/01 IDinsight Documents/Sampling/CensusGeoDataCleaning v1 18March.do",
+		"/Users/pjpaul/Documents/STATA/Random_Stata.do",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pjpaul/Documents/Indus Action/Round 3/History.Rhistory",
+		"/Users/pjpaul/Documents/Misc Writings/Idi/Deck-chairs-on-Titanic.md",
+		"/Users/pjpaul/Documents/Misc Writings/Idi/Leaves_work_satisfaction.md",
+		"/Users/pjpaul/Documents/Misc Writings/Idi/Sense and sensitivity in survey questions",
+		"/Users/pjpaul/Documents/Misc Writings/Idi/Feedback from field visit",
+		"/Users/pjpaul/Documents/Misc Writings/Feelings vs Facts/header.html",
+		"/Users/pjpaul/Documents/Misc Writings/Elections, etc.md",
+		"/Users/pjpaul/Documents/Misc Writings/Feelings vs Facts/Feeling-vs-Facts.md",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Header-HTML.sublime-build",
+		"/Users/pjpaul/Desktop/Ultra.md",
+		"/Users/pjpaul/Documents/Research/ASER Paper/Paper/Gender Diff/Education Expansion/Gender_diff_paper.md",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/sublime-text-markmon/Default (OSX).sublime-keymap",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Markdown to PDF.sublime-build",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Md-Tex.sublime-build",
+		"/Users/pjpaul/Documents/STATA/Stata13_Win&OSX/stata.lic",
+		"/Users/pjpaul/Desktop/New_File.md",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Pandoc-path.py",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Pandoc.sublime-settings",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Pandoc.sublime-build",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Installed Packages/Pandoc.sublime-package",
+		"/Users/pjpaul/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\\\\A[\\/\\/]: # ((.*?))\\\\z",
+			"\\A[\\/\\/]: # ((.*?))\\z",
+			"list",
+			"comment",
+			"duplicates",
+			"sort",
+			"drop if",
+			"lit_p",
+			"lip_p",
+			"F_LIT/TOT_F",
+			"F_LIT",
+			"pctirr",
+			"P_SC",
+			"No_HH_Village",
+			"right skewed",
+			"treatment_village",
+			"fvc_treat_status",
+			"bank_branch_village",
+			"current_imlmnt_stage",
+			"bank_ac_opened",
+			"trim",
+			"`k'",
+			"pjpaul",
+			"value",
+			"110",
+			"forval mu= 20.15(0.02)35",
+			"pandoc"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"replace hq_villages = 1 if ",
+			"replace hq_villages = 1",
+			"\tclustersampsi, detectabledifference mu1(`mu1') sd1(`sd1') k(60) m(15) rho(0.21)\n\t\tlocal mde_15= `r(DD)'/`mu1'*100  \n\t\tclustersampsi, detectabledifference mu1(`mu1') sd1(`sd1') k(110) m(20) rho(0.21)\n\t\tlocal mde_20= `r(DD)'/`mu1'*100 \n\t\tclustersampsi, detectabledifference mu1(`mu1') sd1(`sd1') k(110) m(30) rho(0.21)\n\t\tlocal mde_30= `r(DD)'/`mu1'*100 \n\t\tclustersampsi, detectabledifference mu1(`mu1') sd1(`sd1') k(110) m(45) rho(0.21)\n\t\tlocal mde_45= `r(DD)'/`mu1'*100\n\t\tclustersampsi, detectabledifference mu1(`mu1') sd1(`sd1') k(110) m(50) rho(0.21)\n\t\tlocal mde_50= `r(DD)'/`mu1'*100\n\t\tputexcel set \" Power calculations for BMI Sample Numbers with  k =110 and varying m\", replace\n\t\tputexcel A1= (\"Indicator\") B1= (\"Assumed baseline value\") C1= (\"Assumed ICC\") ///\n\t\t D1= (\"MDE(in percentage points)\") E1= (\"Assuming k= 110 and sample size of:\") F1=(\"Notes\")\n\t\tputexcel A2= (\"Mean BMI\") B2= (`mu1') C2= (0.21) D2= (`mde_15') E2 = (\"m = 15\")F2= (\"Note: MDE recorded as a percentage of baseline mean\")\n\t\tputexcel A3= (\"Mean BMI\") B3= (`mu1') C3= (0.21) D3= (`mde_20') E3 = (\"m = 20\")F3= (\"Note: MDE recorded as a percentage of baseline mean\")\n\t\tputexcel A4= (\"Mean BMI\") B4= (`mu1') C4= (0.21) D4= (`mde_30') E4 = (\"m = 30\")F4= (\"Note: MDE recorded as a percentage of baseline mean\")\n\t\tputexcel A5= (\"Mean BMI\") B5= (`mu1') C5= (0.21) D5= (`mde_45') E5 = (\"m = 45\")F5= (\"Note: MDE recorded as a percentage of baseline mean\")\n\t\tputexcel A6= (\"Mean BMI\") B6= (`mu1') C6= (0.21) D6= (`mde_50') E6 = (\"m = 50\")F6= (\"Note: MDE recorded as a percentage of baseline mean\")",
+			"forval mu= 13(0.02)27",
+			"forval mu= 20.15(0.02)35"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "_data/navigation.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_pages/econ_archive.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								346,
+								346
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_pages/dev_archive.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										182,
+										183
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										150,
+										151
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "_pages/lit_archive.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										146,
+										147
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										116,
+										117
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_posts/post.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								263
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "_posts/2017-1-14-test_post.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 821,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								76,
+								76
+							],
+							[
+								95,
+								95
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										76,
+										77
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/square_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										63,
+										64
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 140.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "Packages/User/Markdown to PDF.sublime-build",
+	"project": "pjpaulpj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"FVC_Mandal_List_Cleaning_October.do"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 306.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

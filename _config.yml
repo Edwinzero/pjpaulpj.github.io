@@ -9,11 +9,11 @@
 locale                   : "en"
 title                    : " "
 title_separator          : "-"
-name                     : "Tobias Morville"
-description              : "Hello, I'm Tobias." 
-url                      : "https://tmorville.github.io/"
+name                     : "PJ Paul"
+description              : "Hello, I'm Paul." 
+url                      : "https://pjpaulpj.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "TMorville"
+repository               : "pjpaulpj"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -70,18 +70,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider               :  # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-89851834-1"
+    tracking_id          : 
 
 
 # Site Author
 author:
   name             : 
-  avatar           : "bio-photo.jpg"
+  avatar           : "me.jpg"
   bio              : 
-  location         : "Copenhagen"
-  email            : "tobiasmorville@gmail.com"
+  location         : "Andhra Pradesh, India"
+  email            : "pjpaul.stephens@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "TMorville"
+  github           : "pjpaulpj"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "tobias-morville-24b97312"
+  linkedin         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -105,8 +105,8 @@ author:
   weibo            :
   xing             :
   youtube          :
-  researchgate     : "https://www.researchgate.net/profile/Tobias_Morville"
-  kaggle           : "TMorville"
+  researchgate     : 
+  kaggle           : 
 
 
 # Reading Files
