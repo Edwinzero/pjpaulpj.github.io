@@ -7,6 +7,6 @@ permalink: /econ_archive/
 
 {% for post in site.tags.econ %}
   {% capture date %}{{ post.date | date: '%-d %B %Y'}}{% endcapture %}
-   <h3 id="{{ date | slugify }}" class="archive__subtitle">{{ date }}</h3>
+   <h6 id="{{ date | slugify }}" class="archive__subtitle">{{ date }}</h6>
   {% include archive-single.html %}
 {% endfor %}
