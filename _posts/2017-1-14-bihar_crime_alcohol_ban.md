@@ -7,7 +7,7 @@ excerpt: "Alleged spike in crime following alcohol ban is largely due to seasona
 
 ## The Alcohol Ban and Crime figures in Bihar
 
-Alcohol ban in Bihar. Reception at the time. 
+[Placeholder] Alcohol ban in Bihar. Reception at the time. 
 
 ### The tide turns
 A few days back, a couple of newspapers carried a report based on this [article](http://www.indiaspend.com/cover-story/270-days-after-bihar-liquor-ban-major-crimes-up-13-40759) about how crime rates in Bihar had increased steadily following the alcohol ban. I found this puzzling and decided to dig in deep. 
@@ -19,11 +19,11 @@ The key claim of rising crime post the April ban of alcohol was the following gr
 Before we rule this shift as the result of the alcohol ban, we need to have a sense of what the crime figures for October, 2016 would have been if the ban had not happened. A rough and dirty method to get this sense is to look at how crime figures in Bihar behaved before the ban.
 
 ## Seasonality of crimes
-We can't be sure if the rise in crimes we're seeing is not entirely out of the usual trend- perhaps in Bihar, over the year April-October is indeed a period of rising crime? In other words, crime in Bihar could be season- increasing in one month, falling in other. 
+The following figure plots the monthly figures for different types of crimes for the period 2010-2016, October. We notice straight away that the graph is extremely unstable with several peaks and valleys. Such peaks and valleys are characteristic of data with a strong seasonal changes- imagine a graph of day-time temperatures at a location over a year. 
 
- To verify this I prepared the following graphs of crime by each month.
+To verify this hypothesis of seasonality I prepared the following graphs of crime by each month.
 
-![Crimes per year]({{ site.url }}/assets/images/Bihar_Crime/Crimes_per_year.png)
+<img src="{{ site.url }}/assets/images/Bihar_Crime/Crimes_per_year.png" height="434" width="580">
 
 ![Crimes by the year]({{ site.url }}/assets/images/Bihar_Crime/Crimes_over_years.png)
 
