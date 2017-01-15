@@ -1,0 +1,6 @@
+---
+title: Test Post
+layout: single
+author_profile: true
+tags: [econ,dev,lit]
+---
