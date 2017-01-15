@@ -16,14 +16,14 @@ The key claim of rising crime post the April ban of alcohol was the following gr
 ## More data
 We can't be sure if the rise in crimes we're seeing is not entirely out of the usual trend- perhaps in Bihar, over the year April-October is indeed a period of rising crime? To verify this I prepared the following graphs of crime by each month.
 
-![Crimes per year](assets/images/Bihar_Crime/Crimes_per_year.png)
+![Crimes per year]({{ site.url }}/assets/images/Bihar_Crime/Crimes_per_year.png)
 
-![Crimes by the year](assets/images/Bihar_Crime/Crimes_over_years.png)
+![Crimes by the year]({{ site.url }}/assets/images/Bihar_Crime/Crimes_over_years.png)
 
-![Thefts by month of the year](assets/images/Bihar_Crime/Thefts_by_month.png)
+![Thefts by month of the year]({{ site.url }}/assets/images/Bihar_Crime/Thefts_by_month.png)
 
-![Riots by month of the year](assets/images/Bihar_Crime/Riots_by_month.png)
+![Riots by month of the year]({{ site.url }}/assets/images/Bihar_Crime/Riots_by_month.png)
 
-![Burglaries by month of the year](assets/images/Bihar_Crime/Burglaries_by_month.png)
+![Burglaries by month of the year]({{ site.url }}/assets/images/Bihar_Crime/Burglaries_by_month.png)
 
-![Kidnappings by month of the year](assets/images/Bihar_Crime/Kidnappings_by_month.png)
+![Kidnappings by month of the year]({{ site.url }}/assets/images/Bihar_Crime/Kidnappings_by_month.png)
