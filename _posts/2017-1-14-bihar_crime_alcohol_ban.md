@@ -45,5 +45,5 @@ None of this means that all is well in Bihar. In fact, as the following figure i
 ![Total_crimes_by_month_2010_16_line]({{ site.url }}/assets/images/Bihar_Crime/Total_Crimes_by_month_2010_16_line.png)
 
 #### Notes and References
-- The code (a bit messy) and the data (relatively clean) used to generate the figures are available [here]().
+- The code (a bit messy) and the data (relatively clean) used to generate the figures are available [here](https://github.com/pjpaulpj/pjpaulpj.github.io/tree/master/assets/images/Bihar_Crime).
 
