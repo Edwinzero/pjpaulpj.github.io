@@ -1,5 +1,5 @@
 ---
-title: Test Post
+title: Random Post
 layout: single
 author_profile: true
 tags: [econ,dev,lit]
