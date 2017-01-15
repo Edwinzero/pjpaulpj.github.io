@@ -65,6 +65,8 @@ The difference between months is clearly visible. A comparison of the crime figu
 ## However....
 None of this means that all is well in Bihar. In fact, as the following figure indicates, the monthly crime figures for the period 2013 - 2016 are consistently higher than the figures for 2010 - 2012. While these figures are unadjusted for population figures (per-capita crime could be decreasing, even though absolute crime is increasing) as well as for possible periodicity in crime (crime may rise and fall over cycles of 3 or so years), the persistent upward shift of crime figures deserves closer scrutiny.
 
+![Total_crimes_by_month_2010_16_line]({{ site.url }}/assets/images/Bihar_Crime/Total_Crimes_by_month_2010_16_line.png)
+
 #### Notes and References
 - The code (a bit messy) and the data (relatively clean) used to generate the figures are available [here]().
 
