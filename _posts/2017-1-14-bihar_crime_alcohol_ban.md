@@ -4,29 +4,6 @@ layout: single
 tags: [dev, bihar, alcohol, time-series]
 excerpt: "Alleged spike in crime following alcohol ban is largely due to seasonality in crime figures."
 ---
----
-- Here's the outline
-    + Introduce the argument: Argument by association that crimes in Bihar had increased post the ban on alcohol.
-    + Response
-    + Context of the ban-
-    + YoY comparison: Argue that if the alcohol ban had an impact we would expect the crime monthly crime figures to be higher than that of the respective months in 2013, 2014, and 2015. We do not see this. Explain the bar-chart
-    + Reasons
-        * Seasonality in crime- Crime in Bihar varies widely from month to month. 
-            - This is common. Data from USA indicates this. Data from other states like X, Y and Z also indicate this trend.
-        * October, 2016 seems to be an outlier- all other months are in line with the trends of the preceding three years.
-    + Cause for concern?
-        * This does not mean things are all rosy in Bihar. Crime in the past four years (2013-2016) has been higher than in the 2010-2012 period.
-        * Not sure if this is increase in crime or increased reporting.
-        * It could also be that crime in Bihar has cyclical variations over say 4-5 year periods
-
-
-
----
-
-## The Alcohol Ban and Crime figures in Bihar
-
-[Placeholder] Alcohol ban in Bihar. Reception at the time. 
-
 ### Introduction
 A few days back, a couple of newspapers carried articles based on this [report](http://www.indiaspend.com/cover-story/270-days-after-bihar-liquor-ban-major-crimes-up-13-40759) on how crime rates in Bihar had increased steadily following the alcohol ban. The claim was definitely surprising and worth a deeper look.
 
