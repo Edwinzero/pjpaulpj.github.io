@@ -23,7 +23,7 @@ The following figure plots the monthly figures for different types of crimes for
 
 To verify this hypothesis of seasonality I prepared the following graphs of crime by each month.
 
-<img src="{{ site.url }}/assets/images/Bihar_Crime/Crimes_per_year.png" height="434" width="580">
+<img src="{{ site.url }}/assets/images/Bihar_Crime/Crimes_per_year.png" height="434" width="600">
 
 ![Crimes by the year]({{ site.url }}/assets/images/Bihar_Crime/Crimes_over_years.png)
 
