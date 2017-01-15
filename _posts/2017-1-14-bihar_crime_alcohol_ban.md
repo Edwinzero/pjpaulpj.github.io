@@ -2,6 +2,7 @@
 title: "Alcohol Ban, and crime in Bihar: Not much to see here"
 layout: single
 tags: dev
+excerpt: "Alleged spike in crime following alcohol ban is largely due to seasonality in crime figures."
 ---
 
 ## The Alcohol Ban and Crime figures in Bihar
