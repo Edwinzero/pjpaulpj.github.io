@@ -22,9 +22,11 @@ layout: default
         <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.0.0/highlight.min.js"></script>
         <script>hljs.highlightBlock(document.querySelector("pre"))</script>
     </body>
+
+<h2>Recent Posts</h2>
  <div class="list-group">
   {% for post in site.posts limit:5 %}
-    <a href="{{ post.url }}" class="list-group-item">{{ post.title }}</a>
+     {% include archive-single.html %}
   {% endfor %}
 </div>
 </html>

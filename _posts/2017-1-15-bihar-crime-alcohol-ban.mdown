@@ -1,6 +1,6 @@
 ---
-title: Test Post
+title: Alcohol Ban, and crime in Bihar: Not much to see here
 layout: single
 author_profile: true
-tags: [econ,dev,lit]
+tags: dev
 ---
