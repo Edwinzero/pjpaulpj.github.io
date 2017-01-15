@@ -45,13 +45,13 @@ The crime figures for each month after April, 2016 are roughly similar to the fi
 
 The above relationship is also seen in the case of the major individual crimes in Bihar. The following graphs indicate the Year-on-Year month-wise comparison for thefts, riots, kidnapping, and burglary, respectively. Only the trend for kidnapping shows a wide deviation from the 2013-2015 trends.
 
-![Thefts_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Thefts_by_month_bar.png)
+![Thefts_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Thefts_by_month_2013_16_bar.png)
 
-![Riots_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Riots_by_month_bar.png)
+![Riots_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Riots_by_month_2013_16_bar.png)
 
-![Kidnappings_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Kidnappings_by_month_bar.png)
+![Kidnappings_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Kidnappings_by_month_2013_16_bar.png)
 
-![Burglaries_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Burglaries_by_month_bar.png)
+![Burglaries_by_month_bar]({{ site.url }}/assets/images/Bihar_Crime/Burglaries_by_month_2013_16_bar.png)
 
 All this seems to indicate that the post-April, 2016 period is not significantly different from previous years, and the alcohol ban has not had a major impact on crimes.
 
