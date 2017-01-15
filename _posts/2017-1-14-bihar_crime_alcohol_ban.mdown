@@ -9,7 +9,6 @@ tags: dev
 Alcohol ban in bihar. Reception at the time. 
 
 ### The tide turns
-
 A few days back, a couple of newspapers carried a report on how crime rates in Bihar had increased steadily following the alcohol ban. I found this puzzling and decided to dig in deep. 
 
 The key claim of rising crime post the April ban of alcohol was the following graph, generated from figures obtained from the Bihar police.

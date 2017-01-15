@@ -7,6 +7,7 @@ tags: [econ,dev,lit]
 
 ### research
 
+## New Markdown
 Some latex  $$ \alpha - \beta = \gamma $$.
 
 My research triangulates between applied mathematics, computational biology and theoretical neuroscience. The central motivation of my PhD project is to understand and develop fundamental theory for learning and control in biological agents subject to normative constraints from physiology and evolution. 
