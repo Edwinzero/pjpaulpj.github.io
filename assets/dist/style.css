@@ -31,6 +31,9 @@ pre {
 }
 
 .calendar {
+    position: relative;
+    top: 50%;
+    left: 50%;
     margin-bottom: 10px;
 }
 
