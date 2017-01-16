@@ -1,4 +1,8 @@
 .calendar {
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin: -100px 0 0 -150px;
     font-size: 15px;
     width: 750px;
     font-family: Helvetica, arial;
