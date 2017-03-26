@@ -1,7 +1,7 @@
 ---
 title: 'Duncan Green on Social Norms: A Response'
 layout: single
-tags: [dev, bihar, alcohol, time-series]
+tags: [dev, social-norms]
 ---
 
 # Duncan Green on Social Norms
