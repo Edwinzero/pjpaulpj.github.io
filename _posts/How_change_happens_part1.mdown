@@ -1,0 +1,13 @@
+---
+title: "How change happens: a critical look- Part 1"
+layout: single
+tags: [dev, change, duncan green, how change happens, theory of change]
+excerpt: ""
+---
+---
+- Context matters applied flippantly
+- Complexity is reduced to 
+- Why does context matter? 
+    + Context matters because parameters which interact with external stimuli to result in change differs from one context to another. So for example you have 
+---
+#Introduction
