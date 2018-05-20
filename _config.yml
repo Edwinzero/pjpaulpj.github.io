@@ -80,8 +80,8 @@ author:
   name             : "PJ Paul"
   avatar           : "me.jpg"
   bio              : 
-  location         : "Andhra Pradesh, India"
-  email            : "pjpaul.stephens@gmail.com"
+  location         : "New Delhi, India"
+  email            : "paul.pathikulangara.jose@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : 
+  linkedin         : "www.linkedin.com/in/pj-paul-pj"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -195,6 +195,7 @@ gems:
   - jekyll-feed
   - jemoji
   - github-calendar
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
