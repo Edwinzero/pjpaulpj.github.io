@@ -7,7 +7,7 @@ permalink: /about/
 ---
 
 ### Work
-I work as an Associate with [IDinsight](http://idinsight.org/). I'm currently stationed in Andhra Pradesh, India, evaluating the impact of a integrated agricultural extension programme.
+I work as an Associate with [IDinsight](http://idinsight.org/). I'm currently stationed in New Delhi, India.
 
 
 ### Life
